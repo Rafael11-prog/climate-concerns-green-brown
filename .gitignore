@@ -1,0 +1,8 @@
+# Raw data is fetched by code/01_get_data.ipynb (licence terms: not redistributed)
+data/raw/
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.vscode/
