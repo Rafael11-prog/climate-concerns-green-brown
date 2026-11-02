@@ -1,0 +1,4 @@
+out-of-sample R2 (%),Europe,U.S.
+linear_controls,4.34,7.76
+linear_full,4.21,7.68
+random_forest,4.38,6.41

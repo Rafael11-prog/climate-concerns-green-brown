@@ -1,0 +1,6 @@
+,U.S.,Europe
+Ljung-Box p (5 lags),0.0036,0.0
+Breusch-Pagan p,0.253,0.0015
+Jarque-Bera p,0.0,0.0
+skewness,-0.1075,0.3907
+kurtosis,7.7303,9.248

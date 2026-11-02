@@ -1,0 +1,5 @@
+market,dummy,n,large_shock_days,bps,t,p
+U.S.,large_t,3854,148,15.99,1.05,0.295
+U.S.,large_lag1,3854,147,-6.13,-0.41,0.681
+Europe,large_t,3800,148,19.45,1.5,0.133
+Europe,large_lag1,3800,149,5.72,0.38,0.704

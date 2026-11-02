@@ -1,0 +1,7 @@
+market,horizon,n,R2_%,shock_t_bps,shock_t_t,shock_t_p,shock_lag1_bps,shock_lag1_t,shock_lag1_p
+U.S.,daily (section 4),3854,7.78,-0.54,-0.21,0.837,-0.62,-0.23,0.818
+U.S.,cumulative 5 days,3850,1.44,2.56,0.41,0.684,1.83,0.31,0.757
+U.S.,weekly,809,12.24,0.41,0.07,0.943,,,
+Europe,daily (section 4),3800,4.91,0.77,0.35,0.723,0.05,0.02,0.984
+Europe,cumulative 5 days,3796,0.96,3.84,0.81,0.415,4.39,0.86,0.39
+Europe,weekly,809,5.85,2.02,0.38,0.701,,,

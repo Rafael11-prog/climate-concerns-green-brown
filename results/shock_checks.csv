@@ -1,0 +1,8 @@
+,0
+ADF statistic (index level),-3.69
+ADF p-value,0.0042
+"Ljung-Box p-value, shocks, 5 lags",0.0931
+"Ljung-Box p-value, shocks, 10 lags",0.0
+Correlation shock / level,0.722
+Shocks above +2 sd (% of days),4.53
+Shocks below -2 sd (% of days),0.76
