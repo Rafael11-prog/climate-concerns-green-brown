@@ -224,7 +224,7 @@
       "shock_t_p": 0.683,
       "shock_lag1_bps": 1.31,
       "shock_lag1_t": 0.59,
-      "shock_lag1_p": 0.554
+      "shock_lag1_p": 0.553
     }
   ],
   "us_ardia_period": [
@@ -283,7 +283,7 @@
       "R2_%": 3.08,
       "shock_t_bps": -0.36,
       "shock_t_t": -0.11,
-      "shock_t_p": 0.908,
+      "shock_t_p": 0.909,
       "shock_lag1_bps": NaN,
       "shock_lag1_t": NaN,
       "shock_lag1_p": NaN

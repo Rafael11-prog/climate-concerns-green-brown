@@ -3,5 +3,5 @@ ar,US (1) shock_t,2137,0.01,-1.52,-0.49,0.626,,,
 ar,US (2) shock_t + controls,2124,3.09,-1.22,-0.39,0.699,,,
 ar,US (3) both shocks + controls,2124,3.13,-1.21,-0.38,0.701,2.79,0.93,0.353
 ar_adjusted,US (1) shock_t,2137,0.0,-0.64,-0.21,0.837,,,
-ar_adjusted,US (2) shock_t + controls,2124,3.08,-0.36,-0.11,0.908,,,
+ar_adjusted,US (2) shock_t + controls,2124,3.08,-0.36,-0.11,0.909,,,
 ar_adjusted,US (3) both shocks + controls,2124,3.12,-0.37,-0.12,0.905,2.85,0.96,0.335
